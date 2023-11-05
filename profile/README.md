@@ -1,9 +1,9 @@
 ## Hi there 👋
 🙋‍♀️ Presenting to you a DUUDES inc. 
 
-- 🌈 We are a small company with big plans and impressive ideas.
-- 👩‍💻 We specialize primarily in WEB and mobile development.
-- 🧙 Our main goal is to implement a high-quality software for a more convenient life.
+- 🏢 We are a small company with big plans and impressive ideas.
+- 👨‍💻 We specialize primarily in WEB and mobile development.
+- ⚡ Our main goal is to implement a high-quality software for a more convenient life.
 
 🍿 Make sure to reach out in case you have something interesting to discuss.
 <!--
